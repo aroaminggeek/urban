@@ -12,13 +12,16 @@ dependencies:
     github: z64/urban
 ```
 
-
 ## Usage
 
 ```crystal
 require "urban"
+
+Urban.define("crystal") # => Listing
+
+Urban.random # => Array(Defintion)
 ```
 
 ## Contributors
 
-- [z64](https://github.com/z64) z64 - creator, maintainer
+- [z64](https://github.com/z64) - creator, maintainer
