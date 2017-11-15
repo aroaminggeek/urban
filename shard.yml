@@ -4,7 +4,6 @@ version: 0.1.0
 authors:
   - z64 <zachnowicki@gmail.com>
 
-
-crystal: 0.20.0
+crystal: 0.23.1
 
 license: MIT

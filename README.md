@@ -4,7 +4,6 @@ A Crystal library for using the Urban Dictionary API.
 
 ## Installation
 
-
 Add this to your application's `shard.yml`:
 
 ```yaml
